@@ -8,5 +8,5 @@ L'application de contrôle WIFI est une des solutions que propose le projet (fic
 
 # AUTRES SOLUTIONS DU PROJET
 - Site Web (Node.js) : https://github.com/BrachV/cometlux-web
-- Application C# commune (Windows Form .NET) : https://github.com/BrachV/cometlux-light-control-commune
+- Application C# commune (Windows Form .NET) : https://github.com/BrachV/cometlux-light-control-commun
 - Code carte ESP32 (Arduino) : https://github.com/BrachV/cometlux-esp32
